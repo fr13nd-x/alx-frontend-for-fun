@@ -1,14 +1,15 @@
-/* Colors */
-$base-color: #3D3D3D;
+/* colors */
+
+$text-color: #3D3D3D;
 $bg-color: #6D6D6D;
 
 body {
-    color: $base-color;
+    color: $text-color;
     background-color: $bg-color;
 }
 
 p {
-    color: $base-color;
+    color: $text-color;
 }
 
 h2 {
